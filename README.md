@@ -552,9 +552,9 @@ merge nodes w/o dup: `5154`
 - [gooooooooooooogle/Clash-Config](https://github.com/gooooooooooooogle/Clash-Config), number of nodes: `1`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `3`
 - [wrfree/free](https://github.com/wrfree/free), number of nodes: `51`
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `13`
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `11`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `217`
-- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `202`
+- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `203`
 - [freefq/free](https://github.com/freefq/free), number of nodes: `14`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), number of nodes: `156`
 - [YasserDivaR/pr0xy](https://github.com/YasserDivaR/pr0xy), number of nodes: `621`
